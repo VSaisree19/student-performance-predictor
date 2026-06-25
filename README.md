@@ -8,7 +8,7 @@ A machine learning web application that predicts a student's average academic sc
 
 ## 🔗 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-predictor-ks5ews6tj3qgksmbnadwuy.streamlit.app/)
+https://student-performance-predictor-ks5ews6tj3qgksmbnadwuy.streamlit.app/
 
 ---
 
