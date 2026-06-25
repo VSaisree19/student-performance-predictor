@@ -118,7 +118,7 @@ student-performance-predictor/
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/Shivakumar391-ux/student-performance-predictor
+git clone https://github.com/VSaisree19/student-performance-predictor
 cd student-performance-predictor
 pip install -r requirements.txt
 streamlit run app.py
@@ -130,4 +130,4 @@ streamlit run app.py
 
 Built as part of an ML Internship at **VEMU Institute of Technology**  
 B.Tech Computer Science Engineering (2023–2027)  
-**Author:** Shivakumar | GitHub: [@Shivakumar391-ux](https://github.com/Shivakumar391-ux)
+**Author:** VSaisree | GitHub: [@VSaisree19](https://github.com/VSaisree19)
