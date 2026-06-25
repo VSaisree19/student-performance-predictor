@@ -1,0 +1,31 @@
+{
+  "project": "Student Performance Predictor",
+  "target": "average_score",
+  "task_type": "regression",
+  "best_model": "Ridge",
+  "train_size": 800,
+  "test_size": 200,
+  "n_features_after_selection": 15,
+  "performance": {
+    "Ridge": {
+      "MAE": 10.3745,
+      "RMSE": 13.3198,
+      "R2": 0.1724
+    },
+    "Random Forest": {
+      "MAE": 11.4198,
+      "RMSE": 14.7365,
+      "R2": -0.013
+    },
+    "XGBoost": {
+      "MAE": 11.2372,
+      "RMSE": 14.7076,
+      "R2": -0.0091
+    }
+  },
+  "target_met": {
+    "MAE_lt_5": false,
+    "RMSE_lt_7": false,
+    "R2_gt_0.85": false
+  }
+}
